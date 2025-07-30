@@ -8,10 +8,8 @@ While this approach enables real-time performance, it introduces complications i
 
 The purpose of this code is to investigate and illustrate how the presence of harmonics affects the clustering process. It provides insights into:
 
-How harmonics replace fundamentals in the candidate list
-
-Why clustering can fail in such scenarios
-
-How future algorithms might be improved to correctly identify fundamental periods even when harmonics dominate
+- How harmonics replace fundamentals in the candidate list?
+- Why clustering can fail in such scenarios?
+- How future algorithms might be improved to correctly identify fundamental periods even when harmonics dominate?
 
 This analysis is crucial for improving the robustness and reliability of real-time pulsar detection pipelines in high-throughput environments like SPOTLIGHT.
